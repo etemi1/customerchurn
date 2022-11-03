@@ -86,4 +86,32 @@ premium is reflected in the amount of the monthly
 charge.
 
 
+Extra International
+Charge: Contains the extra charges for international calls
+for customers who are not on an international plan. 
+
+Customer Service
+Calls: The number of calls made to customer service
+
+Avg Monthly GB
+Download: Contains the average monthly download volume in
+gigabytes. 
+
+Unlimited Data
+Plan: Indicates if the customer has free unlimited
+download capacity with “Yes” or “No”. This premium
+is reflected in the amount of the monthly charge.
+
+Extra Data
+Charges: Contains the extra charges for data downloads for
+customers who are not on an unlimited plan. 
+
+Monthly Charges: Average of all Monthly Charges to the customer.
+
+Total Charges: Sum of all monthly charges.
+
+
+
+
+
 
