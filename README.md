@@ -38,3 +38,52 @@ Contains “Yes” or “No”.
 
 Number of customers part in a group: Number of customers part of the group
 
+Account Length
+(in months):
+
+Local Calls:
+Intl Calls:
+Intl Mins:
+Intl Plan:
+Extra International
+Charges:
+Customer Service
+Calls:
+Avg Monthly GB
+Download:
+Unlimited Data
+Plan:
+Extra Data
+Charges:
+Monthly Charges:
+Total Charges:
+The unique ID that identifies a customer.
+
+Contains “Yes” or “No” to indicate if a customer churned.
+
+The particular reason why the customer ended the contract.
+
+Groups multiple churn reasons together for analysis purposes.
+
+Number of customers part of the group.
+The number of months the customer has been with 
+
+## Subscription types and charges:
+Subscription types & Charges:
+Account Length
+(in months): The number of months the customer has been with  Databel.
+Local Calls: : Amount of local (within the US) calls from the customer
+Intl Calls :Amount of international (outside the US) calls from
+the customer.
+Intl Mins: The number of minutes spent calling internationally.
+
+Intl Active: Indicates if the customer called
+internationally with a “Yes” or “No”.
+
+Intl Plan: Indicates if the customer has a premium plan to
+call internationally for free with “Yes” or “No. This
+premium is reflected in the amount of the monthly
+charge.
+
+
+
